@@ -1,7 +1,10 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="360.tr@HD" tvg-name="360 TV" group-title="CANLI TV" tvg-logo="https://e7.pngegg.com/pngimages/982/664/png-clipart-fox-television-channel-tv8-fox-purple-television-thumbnail.png", 360 TV
-
-
+#EXTINF:-1 tvg-id="360TV.tr@HD" tvg-name="360 TV" group-title="📺 CANLI TV 📺" tvg-logo="https://e7.pngegg.com/pngimages/982/664/png-clipart-fox-television-channel-tv8-fox-purple-television-thumbnail.png", 360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:-1 tvg-id="TBMM.tr@HD" tvg-name="TBMM (TRT 3)" group-title="📺 CANLI TV 📺" tvg-logo="https://images.seeklogo.com/logo-png/61/2/tbmm-tv-logo-png_seeklogo-612581.png", TBMM TV (TRT 3)
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1 tvg-id="DMAX.tr@HD" tvg-name="DMAX TR" group-title="📺 CANLI TV 📺" tvg-logo="https://images.seeklogo.com/logo-png/31/1/dmax-hd-logo-png_seeklogo-314877.png", DMAX HD Süreli
+https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=MHdkdzRaeHU2cWtrRVhDdnBaTklEclpnM3drZmhIdk1zaHN2R29uR2g2QT0=&sid=8jxdl9u9gxhz&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 
 
 
