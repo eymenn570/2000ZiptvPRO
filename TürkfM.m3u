@@ -7,11 +7,11 @@ https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c117
 https://eustr75.mediatriple.net/Number1Media/32_Number1_Petrolofisi.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadyoD.tr@SD" tvg-name="Radyo D" group-title="Türkçe POP" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-d-dinle.png", Radyo D
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
-#EXTINF:-1 tvg-id="PalNostaji.tr@SD" tvg-name="Pal Nostalji" group-title="Nostalji" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/pal-nostalji-radyo.jpg", Pal Nostalji 
+#EXTINF:-1 tvg-id="PalNostaji.tr@SD" tvg-name="Pal Nostalji" group-title="Pal Group" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/pal-nostalji-radyo.jpg", Pal Nostalji 
 https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
-#EXTINF:-1 tvg-id="PalFM.tr@SD" tvg-name="Pal FM" group-title="Türkçe POP" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-pal-fm.jpg", Pal FM 
+#EXTINF:-1 tvg-id="PalFM.tr@SD" tvg-name="Pal FM" group-title="Pal Group" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-pal-fm.jpg", Pal FM 
 https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTurkFM.tr@SD" tvg-name="Power Türk FM" group-title="Türkçe POP" tvg-logo="https://www.canliradyodinle.fm/wp-content//power-turk-dinle.png", Power Türk FM
+#EXTINF:-1 tvg-id="PowerTurkFM.tr@SD" tvg-name="Power Türk FM" group-title="Power App" tvg-logo="https://www.canliradyodinle.fm/wp-content//power-turk-dinle.png", Power Türk FM
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="RadyoSpor.tr@SD" tvg-name="Radyo Spor" group-title="Spor" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-spor.jpg", Radyo Spor
 https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
