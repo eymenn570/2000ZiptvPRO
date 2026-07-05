@@ -17,3 +17,9 @@ https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
 #EXTINF:-1 tvg-id="KralFM.tr@SD" tvg-name="Kral FM" group-title="TOP" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/kral-fm-dinle.jpg", Kral FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1 tvg-id="RadyoViva.tr@SD" tvg-name="Radyo Viva" group-title="TOP" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-viva.jpg",  Radyo Viva
+https://www.canliradyodinle.fm/wp-content/uploads/radyo-viva.jpg
+#EXTINF:-1 tvg-id="RadyoVivaTurku.tr@SD" tvg-name="Radyo Viva Türkü" group-title="Türkü" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/viva-turku.jpg", Radyo Viva Türkü 
+https://listen.radyotvonline.net/hls/play/viva_turku.m3u8
+#EXTINF:-1 tvg-id="KaradenizFM.tr@SD" tvg-name="Karadeniz FM" group-title="TOP" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/karadeniz-fm.jpg", Karadeniz FM 98.2
+https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
