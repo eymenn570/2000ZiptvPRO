@@ -29,3 +29,6 @@ https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
 https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
 #EXTINF:-1 tvg-id="ShowAkustik.tr@SD" tvg-name="Show Akustik" group-title="Akustik" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/show-akustik.jpg", SHOW Akustik
 https://listen.radyotvonline.net/hls/play/show_akustik.m3u8
+#EXTINF:-1 tvg-id="AHbrRadyo.tr@SD" tvg-logo="A HBR Radyo" group-title="Haber" tvg-logo="https://www.radyodinle.us/img/ktg-img/a-haber-radyo.jpg", A HBR Radyo
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+
