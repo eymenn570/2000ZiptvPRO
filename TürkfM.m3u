@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="İstanbulFMFantezi.tr@SD" tvg-name="İsatnbul FM Fantezi" group-title="Arabesk" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/istanbul-fm-fantezi-radyosu.jpg", İstanbul FM Fantezi
 https://yayin.istanbulfm.com.tr/istanbulfm/fantezi/playlist.m3u8
-#EXTINF:-1 tvg-id="DiyanetRadyosu.tr@SD" tvg-name="Diyanet Radyosu" group-title="Dini" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Diyanet_Radyo_logo.svg", Diyanet Radyo
+#EXTINF:-1 tvg-id="DiyanetRadyosu.tr@SD" tvg-name="Diyanet Radyosu" group-title="Dini" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/Diyanet-Radyo-100x100.jpg", Diyanet Radyo
 https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1PetrolOfisi.tr@SD" tvg-name="Number 1 Petrol Ofisi" group-title="Yabancı" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/petrol-ofisi-radyosu.jpg", Number 1 Petrol Ofisi
 https://eustr75.mediatriple.net/Number1Media/32_Number1_Petrolofisi.stream/playlist.m3u8
