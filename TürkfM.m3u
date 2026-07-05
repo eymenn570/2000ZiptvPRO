@@ -11,5 +11,7 @@ https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
 #EXTINF:-1 tvg-id="PalFM.tr@SD" tvg-name="Pal FM" group-title="Türkçe POP" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-pal-fm.jpg", Pal FM 
 https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTurkFM.tr@SD" tvg-name="Power Türk FM" group-title="Türkçe POP" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/power-turk-dinle.png", Power Türk FM
+#EXTINF:-1 tvg-id="PowerTurkFM.tr@SD" tvg-name="Power Türk FM" group-title="Power App" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/power-turk-dinle.png", Power Türk FM
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerEarth.tr@SD" tvg-name="Power Earth" group-title="Power App" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/power-earth.jpg", Power Earth
+https://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8
