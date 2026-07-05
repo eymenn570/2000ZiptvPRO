@@ -23,3 +23,9 @@ https://www.canliradyodinle.fm/wp-content/uploads/radyo-viva.jpg
 https://listen.radyotvonline.net/hls/play/viva_turku.m3u8
 #EXTINF:-1 tvg-id="KaradenizFM.tr@SD" tvg-name="Karadeniz FM" group-title="TOP" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/karadeniz-fm.jpg", Karadeniz FM 98.2
 https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
+#EXTINF:-1 tvg-id="KafaRadyo.tr@SD" tvg-name="Kafa Radyo" group-title="Türkçe Slow" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/kafa-radyo.jpg", Kafa Radyo
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8	
+#EXTINF:-1 tvg-id="ShowRadyo.tr@SD" tvg-name="Show Radyo" group-title="Türkçe POP" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/show-radyo.jpg", SHOW Radyo
+https://www.canliradyodinle.fm/wp-content/uploads/show-radyo.jpg
+#EXTINF:-1 tvg-id="ShowAkustik.tr@SD" tvg-name="Show Akustik" group-title="Akustik" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/show-akustik.jpg", SHOW Akustik
+https://listen.radyotvonline.net/hls/play/show_akustik.m3u8
