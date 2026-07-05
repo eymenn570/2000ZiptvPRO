@@ -31,4 +31,6 @@ https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
 https://listen.radyotvonline.net/hls/play/show_akustik.m3u8
 #EXTINF:-1 tvg-id="AHbrRadyo.tr@SD" tvg-logo="A HBR Radyo" group-title="Haber" tvg-logo="https://www.radyodinle.us/img/ktg-img/a-haber-radyo.jpg", A HBR Radyo
 https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="ASprRadyo.tr@SD" tvg-logo="A SPR Radyo" group-title="Spor" tvg-logo="https://www.phonostar.de/images/auto_created/A_Spor_Radyo184x184.png", A SPR Radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 
