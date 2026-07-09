@@ -1,31 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="TR" group-title="TURKEY PACK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/360-tr.png/revision/latest?cb=20220108145523", 360 TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKEY PACK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0c/T%C3%BCrkMedya_logosu.png", 360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="TURKEY PACK" tvg-logo="https://www.demiroren.com.tr/ProjectImages/companies-image-41.png", DHA TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKEY PACK" tvg-logo="https://www.demiroren.com.tr/ProjectImages/demiroren-big-logo.svg", DHA TV
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="TURKEY PACK" tvg-logo="https://aikimode.com/wp-content/uploads/2015/12/aspor.jpg", A Spor HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKEY PACK" tvg-logo="https://i.tmgrup.com.tr/tmg/turkuvazmedyagrubu/assets/img/logo_dark.png?v=20220113", A Spor HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-country="AM" group-title="ARMENIA PACK" tvg-logo="https://i.imgur.com/HIwJ4lc.png", Armenia 1
+#EXTINF:-1 tvg-country="AM" group-title="ARMENIA PACK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Armenian_Public_TV_2013.svg/revision/latest/scale-to-width-down/40?cb=20211207060117", Armenia 1
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
-#EXTINF:-1 tvg-country="AZ" group-title="AZERBAIJAN PACK" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/b8/ARB_G%C3%BCn%C9%99%C5%9F.png/1280px-ARB_G%C3%BCn%C9%99%C5%9F.png", ARB Günəs
+#EXTINF:-1 tvg-country="AZ" group-title="AZERBAIJAN PACK" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png", ARB Günəs
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-country="AZ" group-title="AZERBAIJAN PACK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/62/Space_TV.png", Space TV
+#EXTINF:-1 tvg-country="AZ" group-title="AZERBAIJAN PACK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj2q2aWRBNLdd0gXtbt929qLnOZQzZ2lkXKGvQ3mTjMA&s=10", Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 tvg-country="RU" group-title="RUSSIA PACK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Russia_1_2012.svg/revision/latest/scale-to-width-down/78?cb=20210123160619", Russia 1
+#EXTINF:-1 tvg-country="RU" group-title="RUSSIA PACK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8.svg/revision/latest?cb=20210903052416", Russia 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-country="RU" group-title="RUSSIA PACK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Karusel_%28Russia%29_%282010%29.svg/revision/latest?cb=20250510105657", Karusel TV
+#EXTINF:-1 tvg-country="RU" group-title="RUSSIA PACK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8.svg/revision/latest?cb=20210903052416", Karusel TV
 http://31.148.48.15/Karusel_HD/index.m3u8
-#EXTINF:-1 tvg-country="RU" group-title="RUSSIA PACK" tvg-logo="https://static.sweet.tv/images/cache/v2/channel_icon/CLEQ/2097-da-vinci-fun-to-learn-hd.png", Da Vinci Learning (576p)
+#EXTINF:-1 tvg-country="RU" group-title="RUSSIA PACK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Pwyvtgo58jf4esgowhus.png/revision/latest?cb=20260210190011", Da Vinci Learning (576p)
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
-#EXTINF:-1 tvg-country="BR" group-title="BRAZIL PACK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Nickelodeon_iCarly_2009.svg/revision/latest/scale-to-width-down/150?cb=20230119134929",  Nickelodeon iCarly
+#EXTINF:-1 tvg-country="BR" group-title="BRAZIL PACK" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/nickelodeon-logo-300x169.jpg",  Nickelodeon iCarly
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
-#EXTINF:-1 tvg-country="BR" group-title="BRAZIL PACK" tvg-logo="https://images.seeklogo.com/logo-png/30/2/masterchef-logo-png_seeklogo-304366.png", MasterChef TV
+#EXTINF:-1 tvg-country="BR" group-title="BRAZIL PACK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BANIJAY_ENTERTAINMENT_LOGO.png/500px-BANIJAY_ENTERTAINMENT_LOGO.png", MasterChef TV
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
-#EXTINF:-1 tvg-country="BR" group-title="BRAZIL PACK" tvg-logo="https://images.seeklogo.com/logo-png/32/2/babyfirst-tv-logo-png_seeklogo-323563.png", BabyFirst 
+#EXTINF:-1 tvg-country="BR" group-title="BRAZIL PACK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/3840px-First_Media_logo.svg.png", BabyFirst 
 https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
-#EXTINF:-1 tvg-country="UK" group-title="UNITED KINGDOM PACK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sky_Kids_logo_2023.svg", Sky Kids (Time-limited="2027")
+#EXTINF:-1 tvg-country="UK" group-title="UNITED KINGDOM PACK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Sky_logo_2025.svg/1280px-Sky_logo_2025.svg.png", Sky Kids (Time-limited="2027")
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:CF:9A:60&stream=823751&extension=ts&play_token=IZDnk61UuM
-#EXTINF:-1 tvg-country="UK" group-title="UNITED KINGDOM PACK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Manchester_United_FC_logo.png", Manchester United TV (Time-limited="2027")
+#EXTINF:-1 tvg-country="UK" group-title="UNITED KINGDOM PACK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/INEOS_logo.svg/500px-INEOS_logo.svg.png", Manchester United TV (Time-limited="2027")
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:CF:9A:60&stream=823751&extension=ts&play_token=IZDnk61UuM
-#EXTINF:-1 tvg-country="US" group-title="FILM CINEMA PACK" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/zootropolis-film-izle@2x.webp", Zootropolis 
-https://srv12.cdnimages75.shop/hls/zootopia-2016-trdualmp4-anacdn-I4fVSYBeZIY.mp4/txt/master.txt
